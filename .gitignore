@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+logs/*.log
+!logs/sample_market_order.log
+!logs/sample_limit_order.log
