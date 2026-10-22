@@ -1,5 +1,3 @@
-"""Command line interface for the Binance Futures Testnet trading bot."""
-
 from __future__ import annotations
 
 import argparse
