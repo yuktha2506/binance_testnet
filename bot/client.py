@@ -1,5 +1,3 @@
-"""Binance Futures Testnet REST client."""
-
 from __future__ import annotations
 
 import hashlib
