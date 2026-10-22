@@ -1,6 +1,3 @@
-"""Application-specific exceptions."""
-
-
 class TradingBotError(Exception):
     """Base exception for user-facing trading bot failures."""
 
